@@ -1,0 +1,6 @@
+[
+    { "id": 1, "name": "Grilled Chicken Salad", "price": "$10.99" },
+    { "id": 2, "name": "Vegan Buddha Bowl", "price": "$12.49" },
+    { "id": 3, "name": "Beef Steak with Veggies", "price": "$15.99" }
+  ]
+  
